@@ -66,6 +66,14 @@ header .container-nav {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
+.inicial-page {
+    background-color: #99aeb3;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 9px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 .separe-main {
     display: flex;
     justify-content: center;
